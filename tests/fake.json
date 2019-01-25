@@ -1,0 +1,17 @@
+[
+  {
+    "Task": "A",
+    "Start": 0,
+    "Finish": 1
+  },
+  {
+    "Task": "B",
+    "Start": 1,
+    "Finish": 4
+  },
+  {
+    "Task": "C",
+    "Start": 4,
+    "Finish": 7
+  }
+]
